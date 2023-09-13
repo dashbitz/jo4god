@@ -7,9 +7,8 @@
            <button class="cerrar-menu" id="cerrar"><i class="bi bi-x"></i></button>
            <ul class="nav-list">
                <li><a href="#">Inicio</a></li>
-               <li><a href="#">Quiénes somos</a></li>
-               <li><a href="#">Servicios</a></li>
-               <li><a href="#">Qué hacemos</a></li>
+               <li><a href="#">productos</a></li>
+               <li><a href="#">quienes somos</a></li>
                <li><a href="#">Contacto</a></li>
            </ul>
        </nav>
